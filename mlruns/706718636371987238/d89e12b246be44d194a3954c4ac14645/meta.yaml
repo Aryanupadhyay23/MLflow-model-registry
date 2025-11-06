@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/d89e12b246be44d194a3954c4ac14645/artifacts
+end_time: 1762399807144
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: d89e12b246be44d194a3954c4ac14645
+run_name: amazing-shark-803
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399807064
+status: 3
+tags: []
+user_id: dell

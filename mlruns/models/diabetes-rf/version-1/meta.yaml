@@ -1,0 +1,17 @@
+creation_timestamp: 1762400810279
+current_stage: Archived
+deployment_job_state: null
+description: '
+
+  '
+last_updated_timestamp: 1762402171128
+model_id: m-a40f0a0eca344411b4d24455171723a6
+name: diabetes-rf
+run_id: 71bb7749d2b74e4282a6d77b86f7209e
+run_link: ''
+source: file:///C:/model-registry-demo/mlruns/706718636371987238/models/m-a40f0a0eca344411b4d24455171723a6/artifacts
+status: READY
+status_message: null
+storage_location: file:///C:/model-registry-demo/mlruns/706718636371987238/models/m-a40f0a0eca344411b4d24455171723a6/artifacts
+user_id: null
+version: 1

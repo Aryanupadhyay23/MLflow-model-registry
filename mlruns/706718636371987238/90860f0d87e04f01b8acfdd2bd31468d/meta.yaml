@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/90860f0d87e04f01b8acfdd2bd31468d/artifacts
+end_time: 1762402418929
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 90860f0d87e04f01b8acfdd2bd31468d
+run_name: upbeat-mare-426
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402418853
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/955a3dd9ada14d12826e0d2418b310fc/artifacts
+end_time: 1762399777523
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 955a3dd9ada14d12826e0d2418b310fc
+run_name: industrious-rat-732
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399777454
+status: 3
+tags: []
+user_id: dell

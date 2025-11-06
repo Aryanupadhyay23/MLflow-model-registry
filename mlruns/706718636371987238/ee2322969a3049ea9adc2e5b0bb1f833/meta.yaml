@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/ee2322969a3049ea9adc2e5b0bb1f833/artifacts
+end_time: 1762399778002
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: ee2322969a3049ea9adc2e5b0bb1f833
+run_name: trusting-penguin-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399777932
+status: 3
+tags: []
+user_id: dell

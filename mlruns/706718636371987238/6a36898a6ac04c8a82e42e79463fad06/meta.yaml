@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/6a36898a6ac04c8a82e42e79463fad06/artifacts
+end_time: 1762399427531
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 6a36898a6ac04c8a82e42e79463fad06
+run_name: rare-donkey-527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399427439
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/e0d8017ea31c425cb33d378eb72074bb/artifacts
+end_time: 1762402057415
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: e0d8017ea31c425cb33d378eb72074bb
+run_name: tasteful-rat-718
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402031250
+status: 3
+tags: []
+user_id: dell

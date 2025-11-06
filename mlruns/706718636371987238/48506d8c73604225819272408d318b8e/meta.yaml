@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/48506d8c73604225819272408d318b8e/artifacts
+end_time: 1762399540600
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 48506d8c73604225819272408d318b8e
+run_name: big-finch-544
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399540528
+status: 3
+tags: []
+user_id: dell

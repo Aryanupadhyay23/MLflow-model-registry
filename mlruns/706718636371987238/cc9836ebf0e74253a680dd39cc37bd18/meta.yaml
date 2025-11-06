@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/cc9836ebf0e74253a680dd39cc37bd18/artifacts
+end_time: 1762402419015
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: cc9836ebf0e74253a680dd39cc37bd18
+run_name: marvelous-calf-874
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402418940
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/d6ac756d03a8475bb6a2b705481a8eaa/artifacts
+end_time: 1762399492191
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: d6ac756d03a8475bb6a2b705481a8eaa
+run_name: zealous-squid-63
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399492114
+status: 3
+tags: []
+user_id: dell

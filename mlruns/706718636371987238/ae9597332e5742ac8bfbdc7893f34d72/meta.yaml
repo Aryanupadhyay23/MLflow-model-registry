@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/ae9597332e5742ac8bfbdc7893f34d72/artifacts
+end_time: 1762399777031
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: ae9597332e5742ac8bfbdc7893f34d72
+run_name: painted-ape-247
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399776942
+status: 3
+tags: []
+user_id: dell

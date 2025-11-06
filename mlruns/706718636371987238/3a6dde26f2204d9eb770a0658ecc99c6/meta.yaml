@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/3a6dde26f2204d9eb770a0658ecc99c6/artifacts
+end_time: 1762402046600
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 3a6dde26f2204d9eb770a0658ecc99c6
+run_name: sincere-horse-79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402046520
+status: 3
+tags: []
+user_id: dell

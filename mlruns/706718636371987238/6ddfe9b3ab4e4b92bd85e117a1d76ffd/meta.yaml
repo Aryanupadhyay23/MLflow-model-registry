@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/6ddfe9b3ab4e4b92bd85e117a1d76ffd/artifacts
+end_time: 1762399778290
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 6ddfe9b3ab4e4b92bd85e117a1d76ffd
+run_name: intrigued-mink-26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399767533
+status: 4
+tags: []
+user_id: dell

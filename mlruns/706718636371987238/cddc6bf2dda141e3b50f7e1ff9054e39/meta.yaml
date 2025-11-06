@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/cddc6bf2dda141e3b50f7e1ff9054e39/artifacts
+end_time: 1762399778240
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: cddc6bf2dda141e3b50f7e1ff9054e39
+run_name: popular-whale-770
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399778168
+status: 3
+tags: []
+user_id: dell

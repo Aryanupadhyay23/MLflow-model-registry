@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/8edb444b022847caa7fd7c7d97f317fb/artifacts
+end_time: 1762399248783
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 8edb444b022847caa7fd7c7d97f317fb
+run_name: skillful-sheep-317
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399248698
+status: 3
+tags: []
+user_id: dell

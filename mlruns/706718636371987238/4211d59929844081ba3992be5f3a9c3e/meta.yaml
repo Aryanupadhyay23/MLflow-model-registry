@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/4211d59929844081ba3992be5f3a9c3e/artifacts
+end_time: 1762399427316
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 4211d59929844081ba3992be5f3a9c3e
+run_name: rebellious-stoat-675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399427232
+status: 3
+tags: []
+user_id: dell

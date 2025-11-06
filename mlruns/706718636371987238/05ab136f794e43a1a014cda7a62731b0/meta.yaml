@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/05ab136f794e43a1a014cda7a62731b0/artifacts
+end_time: 1762399492282
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 05ab136f794e43a1a014cda7a62731b0
+run_name: flawless-midge-31
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399492201
+status: 3
+tags: []
+user_id: dell

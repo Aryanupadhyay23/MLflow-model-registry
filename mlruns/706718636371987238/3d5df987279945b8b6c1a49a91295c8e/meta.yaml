@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/3d5df987279945b8b6c1a49a91295c8e/artifacts
+end_time: 1762399777681
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 3d5df987279945b8b6c1a49a91295c8e
+run_name: clean-roo-581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399777613
+status: 3
+tags: []
+user_id: dell

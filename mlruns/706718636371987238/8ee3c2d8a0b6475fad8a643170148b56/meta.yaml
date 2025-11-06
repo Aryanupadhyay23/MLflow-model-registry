@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/8ee3c2d8a0b6475fad8a643170148b56/artifacts
+end_time: 1762399806969
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 8ee3c2d8a0b6475fad8a643170148b56
+run_name: lyrical-eel-664
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399806893
+status: 3
+tags: []
+user_id: dell

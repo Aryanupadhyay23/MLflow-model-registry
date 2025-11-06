@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/9198fbb809494d57ac2edafab714162d/artifacts
+end_time: 1762402045016
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 9198fbb809494d57ac2edafab714162d
+run_name: rogue-mare-564
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402044933
+status: 3
+tags: []
+user_id: dell

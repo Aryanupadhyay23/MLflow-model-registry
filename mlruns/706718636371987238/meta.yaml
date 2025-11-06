@@ -1,0 +1,6 @@
+artifact_location: file:///C:/model-registry-demo/mlruns/706718636371987238
+creation_time: 1762399237810
+experiment_id: '706718636371987238'
+last_update_time: 1762399237810
+lifecycle_stage: active
+name: diabetes-rf-hp

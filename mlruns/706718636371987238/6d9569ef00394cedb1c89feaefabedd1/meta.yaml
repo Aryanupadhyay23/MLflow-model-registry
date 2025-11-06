@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/6d9569ef00394cedb1c89feaefabedd1/artifacts
+end_time: 1762399540516
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 6d9569ef00394cedb1c89feaefabedd1
+run_name: blushing-snake-218
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399540435
+status: 3
+tags: []
+user_id: dell

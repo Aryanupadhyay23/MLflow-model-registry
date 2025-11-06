@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/d6a931a57a824fcc8e7e6df70f18d70b/artifacts
+end_time: 1762399540859
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: d6a931a57a824fcc8e7e6df70f18d70b
+run_name: upset-crow-837
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399540779
+status: 3
+tags: []
+user_id: dell

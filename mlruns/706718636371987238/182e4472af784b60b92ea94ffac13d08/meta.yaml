@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/182e4472af784b60b92ea94ffac13d08/artifacts
+end_time: 1762399491661
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 182e4472af784b60b92ea94ffac13d08
+run_name: sassy-gnat-593
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399491588
+status: 3
+tags: []
+user_id: dell

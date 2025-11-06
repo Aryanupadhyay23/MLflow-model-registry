@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/4018ea37d0bc478b81428cffa5519035/artifacts
+end_time: 1762399491235
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 4018ea37d0bc478b81428cffa5519035
+run_name: resilient-finch-926
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399491159
+status: 3
+tags: []
+user_id: dell

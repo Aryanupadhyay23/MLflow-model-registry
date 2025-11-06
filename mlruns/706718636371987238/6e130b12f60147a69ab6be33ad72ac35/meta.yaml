@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/6e130b12f60147a69ab6be33ad72ac35/artifacts
+end_time: 1762402418321
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 6e130b12f60147a69ab6be33ad72ac35
+run_name: thoughtful-hare-505
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402418240
+status: 3
+tags: []
+user_id: dell

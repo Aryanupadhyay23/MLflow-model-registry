@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/bbe9751bdef5487f8143b6cef9f26acb/artifacts
+end_time: 1762399248088
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: bbe9751bdef5487f8143b6cef9f26acb
+run_name: burly-slug-456
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399247955
+status: 3
+tags: []
+user_id: dell

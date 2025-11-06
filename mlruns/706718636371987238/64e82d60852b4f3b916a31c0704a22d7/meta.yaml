@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/64e82d60852b4f3b916a31c0704a22d7/artifacts
+end_time: 1762402044749
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 64e82d60852b4f3b916a31c0704a22d7
+run_name: upbeat-bat-474
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402044650
+status: 3
+tags: []
+user_id: dell

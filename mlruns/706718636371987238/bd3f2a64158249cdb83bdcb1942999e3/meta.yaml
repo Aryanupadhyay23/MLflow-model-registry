@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/bd3f2a64158249cdb83bdcb1942999e3/artifacts
+end_time: 1762402045536
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: bd3f2a64158249cdb83bdcb1942999e3
+run_name: silent-shrew-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402045445
+status: 3
+tags: []
+user_id: dell

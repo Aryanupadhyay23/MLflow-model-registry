@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/71bb7749d2b74e4282a6d77b86f7209e/artifacts
+end_time: 1762399833174
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 71bb7749d2b74e4282a6d77b86f7209e
+run_name: legendary-yak-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399797110
+status: 3
+tags: []
+user_id: dell

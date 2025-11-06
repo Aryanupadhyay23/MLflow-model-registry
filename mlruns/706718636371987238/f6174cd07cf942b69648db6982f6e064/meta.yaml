@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/f6174cd07cf942b69648db6982f6e064/artifacts
+end_time: 1762402045630
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: f6174cd07cf942b69648db6982f6e064
+run_name: shivering-toad-471
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402045546
+status: 3
+tags: []
+user_id: dell

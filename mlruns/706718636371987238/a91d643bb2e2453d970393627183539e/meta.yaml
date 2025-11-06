@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/a91d643bb2e2453d970393627183539e/artifacts
+end_time: 1762402419610
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: a91d643bb2e2453d970393627183539e
+run_name: big-sponge-716
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402419537
+status: 3
+tags: []
+user_id: dell

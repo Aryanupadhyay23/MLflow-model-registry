@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/bdd8996731804ba6a41f51e186358107/artifacts
+end_time: 1762399540061
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: bdd8996731804ba6a41f51e186358107
+run_name: chill-mink-966
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399539973
+status: 3
+tags: []
+user_id: dell

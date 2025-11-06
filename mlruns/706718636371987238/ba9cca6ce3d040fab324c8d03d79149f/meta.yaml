@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/ba9cca6ce3d040fab324c8d03d79149f/artifacts
+end_time: 1762402046335
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: ba9cca6ce3d040fab324c8d03d79149f
+run_name: funny-dove-97
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402046258
+status: 3
+tags: []
+user_id: dell

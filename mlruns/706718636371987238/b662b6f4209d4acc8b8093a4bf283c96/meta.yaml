@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/b662b6f4209d4acc8b8093a4bf283c96/artifacts
+end_time: 1762399249184
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: b662b6f4209d4acc8b8093a4bf283c96
+run_name: fortunate-fly-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399249069
+status: 3
+tags: []
+user_id: dell

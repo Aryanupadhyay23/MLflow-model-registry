@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/d85e7c898a0a4976b811ff3c5afc8b5f/artifacts
+end_time: 1762399249283
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: d85e7c898a0a4976b811ff3c5afc8b5f
+run_name: omniscient-lynx-797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399249196
+status: 3
+tags: []
+user_id: dell

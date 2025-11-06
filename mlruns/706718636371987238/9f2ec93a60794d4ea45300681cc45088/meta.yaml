@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/9f2ec93a60794d4ea45300681cc45088/artifacts
+end_time: 1762402418065
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 9f2ec93a60794d4ea45300681cc45088
+run_name: mysterious-fly-307
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402417981
+status: 3
+tags: []
+user_id: dell

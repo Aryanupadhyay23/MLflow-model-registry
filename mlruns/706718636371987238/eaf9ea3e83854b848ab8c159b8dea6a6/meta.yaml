@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/eaf9ea3e83854b848ab8c159b8dea6a6/artifacts
+end_time: 1762399807309
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: eaf9ea3e83854b848ab8c159b8dea6a6
+run_name: gifted-dove-373
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399807233
+status: 3
+tags: []
+user_id: dell

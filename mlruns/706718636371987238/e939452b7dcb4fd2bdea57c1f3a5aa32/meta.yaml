@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/e939452b7dcb4fd2bdea57c1f3a5aa32/artifacts
+end_time: 1762402419275
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: e939452b7dcb4fd2bdea57c1f3a5aa32
+run_name: colorful-fish-914
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402419193
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,7 @@
+aliases: {}
+creation_timestamp: 1762400810246
+deployment_job_id: null
+deployment_job_state: null
+description: A random forest model trained on the PIMA indian Dataset
+last_updated_timestamp: 1762404102547
+name: diabetes-rf

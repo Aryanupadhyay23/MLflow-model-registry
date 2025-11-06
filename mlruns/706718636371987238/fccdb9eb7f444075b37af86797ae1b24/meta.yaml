@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/fccdb9eb7f444075b37af86797ae1b24/artifacts
+end_time: 1762399491066
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: fccdb9eb7f444075b37af86797ae1b24
+run_name: kindly-bird-883
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399490991
+status: 3
+tags: []
+user_id: dell

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/8c1b0e929a084e1d803cf86664fde35e/artifacts
+end_time: 1762399248577
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 8c1b0e929a084e1d803cf86664fde35e
+run_name: bald-carp-823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399248461
+status: 3
+tags: []
+user_id: dell

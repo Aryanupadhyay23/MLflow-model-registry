@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/5910b00475f749eea2cf0722b622acd9/artifacts
+end_time: 1762399427038
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 5910b00475f749eea2cf0722b622acd9
+run_name: stylish-toad-392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762399426954
+status: 3
+tags: []
+user_id: dell

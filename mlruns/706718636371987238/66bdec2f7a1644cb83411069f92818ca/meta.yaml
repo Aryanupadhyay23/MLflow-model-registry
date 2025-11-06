@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/model-registry-demo/mlruns/706718636371987238/66bdec2f7a1644cb83411069f92818ca/artifacts
+end_time: 1762402045263
+entry_point_name: ''
+experiment_id: '706718636371987238'
+lifecycle_stage: active
+run_id: 66bdec2f7a1644cb83411069f92818ca
+run_name: carefree-slug-917
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762402045146
+status: 3
+tags: []
+user_id: dell
